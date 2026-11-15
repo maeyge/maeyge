@@ -1,4 +1,4 @@
-### Oi, eu sou a Maria Luiza :)
+### Oi, eu sou Maria Luiza :)
 
 Estudante do **4º período de Ciência da Computação** pela **Universidade Federal de Sergipe (UFS)**, com foco em desenvolvimento full-stack, arquitetura de software e sistemas escaláveis.
 
