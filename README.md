@@ -1,4 +1,4 @@
-### Olá, eu sou a Maria Luiza 👋
+### Oi, eu sou a Maria Luiza :)
 
 Estudante do **4º período de Ciência da Computação** pela **Universidade Federal de Sergipe (UFS)**, com foco em desenvolvimento full-stack, arquitetura de software e sistemas escaláveis.
 
@@ -17,10 +17,3 @@ Estudante do **4º período de Ciência da Computação** pela **Universidade Fe
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maeyge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeyge&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</div>
